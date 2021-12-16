@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreiBranza
 - 👀 I’m interested in developing Java applications with a focus on back-end.
-- 🌱 I’m currently learning Spring Boot and Hibernate.
+- 🌱 I’m currently studying for the Java Oracle certification.
 - 📫 How to reach me : andrei.branza@yahoo.com
 
 <!---
