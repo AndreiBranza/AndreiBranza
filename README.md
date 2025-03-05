@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreiBranza
+- 👋 Hi, I’m @AndreiBranza and these pretzels are making me thirsty!
 - 👀 I’m interested in developing Java applications with a focus on back-end.
 - 🌱 -
 - 📫 How to reach me : andrei.branza@yahoo.com
